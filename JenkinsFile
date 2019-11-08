@@ -11,7 +11,7 @@ pipeline{
         sh 'npm install'
       }
     }
-    stage ('rebuild'){
+    stage ('build'){
       steps{
         sh '''
           npm run build
