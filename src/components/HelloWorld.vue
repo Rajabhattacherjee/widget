@@ -88,7 +88,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to Our CI/CD Widget Demo1'
+      msg: 'Welcome to Widget_6thDec2019'
     }
   }
 }
